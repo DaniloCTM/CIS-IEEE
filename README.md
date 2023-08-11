@@ -7,3 +7,6 @@ A proposta da primeira atividade foi realizar a regressão em um dataset da esco
 
 ## Atividade 2
 A proposta da segunda atividade é implementar um algoritmo KNN (K-Nearest Neighbors) do zero e aplicá-lo a um dataset de vinho. Além disso, na atividade foram explorados os modelos de aprendizado de máquina Random Forests e Decision Trees. Também foram estudadas técnicas para aumentar a quantidade de dados disponíveis, como o Oversampling. 
+
+## Atividade 3
+A proposta da segunda atividade é implementar um Perceptron do zero. Nessa atividade foi possível explorar o conceito de backpropagation (algoritmo para ajustar os parâmetros da rede). Além disso, deveriamos utilizar o Perceptron para identificar fraudes bancárias. Nessa atividade também foi utilizado conceitos aprendidos anteriormente como o Oversampling.
